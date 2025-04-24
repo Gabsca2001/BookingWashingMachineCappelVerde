@@ -1,0 +1,3 @@
+[submodule "BookingWashingMachine"]
+	path = BookingWashingMachine
+	url = https://github.com/Gabsca2001/BookingWashingMachine.git
